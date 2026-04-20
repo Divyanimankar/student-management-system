@@ -1,0 +1,4 @@
+com\student\Student.class
+com\student\StudentController.class
+com\student\StudentManagementApplication.class
+com\student\StudentRepository.class
